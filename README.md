@@ -1,7 +1,5 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1562883039/5948/bongo_blob.gif?1562883039" width="30"/> console.log("Opa, tudo bom?") </h1>
-==========================================================================================================================================
-
 
 My name is Gabriel Garcia. I work as a Developer Apprentice at Zup Innovation.
 
@@ -11,7 +9,6 @@ My name is Gabriel Garcia. I work as a Developer Apprentice at Zup Innovation.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=gray&logo=JavaScript&logoColor=white)&nbsp;  
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&color=gray&logo=Angular)&nbsp;  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=gray&logo=Git&logoColor=white)&nbsp;![Github](https://img.shields.io/badge/-Github-05122A?style=flat&color=gray&logo=Github)&nbsp;![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&color=gray&logo=Bitbucket)&nbsp;![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&color=gray&logo=visual-studio-code)&nbsp;  
-
 
 ### Analytics ⚙️
 
