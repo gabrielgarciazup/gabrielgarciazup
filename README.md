@@ -1,7 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1562883039/5948/bongo_blob.gif?1562883039" width="30"/> console.log("Opa, tudo bom?") </h1>
 
-My name is Gabriel Garcia. I work as a Developer Apprentice at Zup Innovation.
+My name is Gabriel Garcia. I work as a Developer Apprentice at <a href="www.zup.com.br">Zup Innovation</a>.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gabrielgarciazup&repo=gabrielgarciazup&countColorcountColor)
 
